@@ -1,0 +1,7 @@
+git clone [https://github.com/Fred-507/comp7940-lab2.git]
+cd [D:/COMP7940/lab2]
+
+git remote set-url origin git@github.com:https://github.com/Fred-507/comp7940-lab2.git
+git add [lab2]
+git commit -m ["Description"]
+git push -u origin main
